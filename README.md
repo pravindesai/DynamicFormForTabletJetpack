@@ -1,5 +1,5 @@
 # DynamicFormForTabletJetpack
-Jetpack project for tablets to create Dynamic server driven UI/Forms
+Jetpack compose project for tablets to create Dynamic server driven UI/Forms
 
 Forms can be build from https://formbuilder.online/
 
